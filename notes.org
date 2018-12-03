@@ -2,7 +2,7 @@
 
 NOTE: To run-and-compile at once, use `tcc -run <FILE>`
 
-** Chapter 1
+** TODO Chapter 1
    1.1 DONE
    1.2 hello.c:4: warning: unknown escape sequence: '\g'
    1.3 DONE see: f_to_c.c
@@ -10,5 +10,7 @@ NOTE: To run-and-compile at once, use `tcc -run <FILE>`
    1.5 DONE
    1.6 DONE see getchar_eof.c
    1.7 DONE see eof_value.c
-
-
+   1.8 DONE see ws.c
+   1.9 DONE see compress_ws.c
+   1.10 DONE see encode_chars.c
+   1.11 TODO see test_wc.sh
